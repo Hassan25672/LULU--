@@ -21,6 +21,7 @@ pip install bs4
 rm -rf Random
 
 git clone https://github.com/Hassan25672/LULU--.git
+
 cd LULU--
 
 python LULU.py
